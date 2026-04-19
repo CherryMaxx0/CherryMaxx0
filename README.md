@@ -4,7 +4,7 @@
 * Studying **Computer Science**. *Undergraduate Program*
 * Current course focusing on **Object Oriented Programming**.
 * Working on a Huge Project; **Building an Flutter App** that will be **Published in Google Playstore**.
-* *Extra* I have a small ***YouTube Channel*** [CherryRTX](www.youtube.com/@CMX_GameMode) focusing on gaming. Check it out, if you wish to.
+* *Extra* I have a small ***YouTube Channel*** [CherryRTX](https://youtube.com/@cmx_gamemode?si=W-rb3ZXUbT34ZzPx) focusing on gaming. Check it out, if you wish to.
 ---
 ## ▷ Skill Sets - *Programming Related Only*
 * Problem Solving
