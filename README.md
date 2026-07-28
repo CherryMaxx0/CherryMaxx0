@@ -12,6 +12,7 @@
 * Simple and Flow controlled Coding skills
 * Application Development (Basic)
 * Project-Based Learning in Programming
+
 *CyberSecurity*
 * Kali-Linux Tools
 * Terminal Bashing
